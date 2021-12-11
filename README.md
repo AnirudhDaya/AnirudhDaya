@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/94374523/143904768-1c329303-2810-4f41-8b9c-1a0f8cf9b183.png">
 
 # Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anirudh
-### I am programmer,a learner and a student. I like exploring the field of open source. Currently pursuing computer science degree. 
+### I am a programmer,a learner and a student. I like exploring the field of open source. Currently pursuing computer science degree. 
 ## Language <img src="https://cliply.co/wp-content/uploads/2021/07/392107260_SUNGLASSES_EMOJI_400px.gif" width="40px">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
