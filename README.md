@@ -25,7 +25,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/anirudh-dayanand-23a9051b6/)
 [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">](https://stackoverflow.com/users/17476515/anirudh-dayanand) [<img src="https://img.shields.io/badge/HR-HackerRank-green">](https://www.hackerrank.com/anirudhdaya)  
 
-## Connect with me on <img src="https://lh3.googleusercontent.com/proxy/ovERi0r-4o-hNDbZKZIu6TOOzJDtSprx6WP3bu4ks79fwsfsGmurwWB5YsniIbYugcAlWD_noMA8KoYDjPdZeCw0wHm4q-7WXC_zprp_ZNLw3lEIQjgrrQ" width="45px">  
+## Connect with me on <img src="https://acegif.com/wp-content/gifs/handshake-46.gif" width="45px">  
   [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/AnirudhDayanand)
  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=anirudhdaya@gmail.com)
  [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/Ron#5542)
