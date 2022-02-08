@@ -21,7 +21,7 @@
   <img height="150em" src="https://activity-graph.herokuapp.com/graph?username=AnirudhDaya&hide_border=true&theme=dracula" />
 
 ## Profiles <img src="https://thumbs.gfycat.com/ExhaustedSpottedGazelle-size_restricted.gif" width="30px">
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/anirudhdaya)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/anirudhdayanand)
 [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">](https://stackoverflow.com/users/17476515/anirudh-dayanand) [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/anirudhdaya) [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">](https://leetcode.com/AnirudhDaya)  
 
 ## Connect with me on <img src="https://acegif.com/wp-content/gifs/handshake-46.gif" width="45px">  
