@@ -2,14 +2,16 @@
 
 # Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anirudh
 ### I am a programmer, a learner and a student. I like exploring the field of open source. Currently pursuing computer science degree. 
-## Language <img src="https://cliply.co/wp-content/uploads/2021/07/392107260_SUNGLASSES_EMOJI_400px.gif" width="40px">
+## Languages <img src="https://cliply.co/wp-content/uploads/2021/07/392107260_SUNGLASSES_EMOJI_400px.gif" width="40px"> <img src="https://thumbs.gfycat.com/PerfumedColossalGadwall-size_restricted.gif" width="30px">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
 
 ## Want to Learn <img src="https://icon2.cleanpng.com/20180203/pee/kisspng-india-drawing-pin-bulletin-board-manufacturing-pushpin-transparent-background-5a7581c1be5805.8890980315176503697797.jpg" width="30px">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
-## Currently Learning <img src="https://thumbs.gfycat.com/PerfumedColossalGadwall-size_restricted.gif" width="30px">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+## Currently Learning 
+<img src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 
 ## OS <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0178.gif" width="50px">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
